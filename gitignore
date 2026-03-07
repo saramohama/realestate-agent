@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+listings.json
+viewings.json
+.DS_Store
